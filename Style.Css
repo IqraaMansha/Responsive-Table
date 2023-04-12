@@ -33,6 +33,7 @@ h2 a {
 .blue {
   color: #185875;
 }
+
 .yellow {
   color: #fff842;
 }
@@ -81,7 +82,7 @@ h2 a {
 }
 
 .container td:first-child {
-  color:rgb(83, 101, 204);
+  color: rgb(83, 101, 204);
 }
 
 .container tr:hover {
@@ -95,8 +96,8 @@ h2 a {
   background-color: #a6d1d1;
   color: #403e10;
   font-weight: bold;
-  box-shadow:  #63eeee93 -1px 1px, #3ba3a393 -2px 2px,#3ba3a393 -3px 3px,
-  #3ba3a393 -4px 4px,  #3ba3a393 -5px 5px, #63eeee93 -6px 6px;
+  box-shadow: #63eeee93 -1px 1px, #3ba3a393 -2px 2px, #3ba3a393 -3px 3px,
+    #3ba3a393 -4px 4px, #3ba3a393 -5px 5px, #63eeee93 -6px 6px;
   transform: translate3d(6px, -6px, 0);
   transition-delay: 0s;
   transition-duration: 0.4s;
@@ -105,6 +106,7 @@ h2 a {
 }
 
 @media (max-width: 800px) {
+
   .container td:nth-child(4),
   .container th:nth-child(4) {
     display: none;
