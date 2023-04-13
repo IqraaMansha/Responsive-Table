@@ -22,13 +22,16 @@ h2 {
   line-height: 1em;
   padding-bottom: 2em;
   color: #fb667a;
+  
 }
 
 h2 a {
   font-weight: 700;
   color: #bd5260;
   text-decoration: none;
+
 }
+
 
 .blue {
   color: #185875;
